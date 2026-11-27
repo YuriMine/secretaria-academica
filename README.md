@@ -125,10 +125,9 @@ daquele dia, sem criar outra página. O identificador da página foi desfocado n
 captura de tela por segurança; ele não é necessário para conferir o resultado.
 
 ## 6. Melhorias futuras (roadmap)
-
-1. Aviso de arquivo novo, por e-mail (IMAP).
-2. Janela de dias configurável (`JANELA_DIAS`).
-3. Testes automatizados com `unittest` e GitHub Actions.
+1. Janela de dias configurável (`JANELA_DIAS`).
+2. Testes automatizados com `unittest` e GitHub Actions.
+3. Avisa no telegram quando o prazo está chegando
 
 ## Estado atual
 
