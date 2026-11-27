@@ -1,0 +1,24 @@
+# Credenciais (nunca versionar)
+.env
+.env.*
+!.env.example
+
+# Ambiente virtual e cache
+.venv/
+__pycache__/
+*.pyc
+
+# Sistema e editores
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Saidas geradas localmente
+prazos.json
+*.log
+*.bak-*
+
+# Documentos internos de trabalho (nao vao para o repositorio publico)
+AGENTS.md
+legado/

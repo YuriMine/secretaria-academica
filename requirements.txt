@@ -1,0 +1,3 @@
+requests>=2.31.0
+# opcional: se não instalar, secretaria.py usa um leitor de .env embutido
+python-dotenv>=1.0.0
