@@ -127,7 +127,8 @@ captura de tela por segurança; ele não é necessário para conferir o resultad
 ## 6. Melhorias futuras (roadmap)
 1. Janela de dias configurável (`JANELA_DIAS`).
 2. Testes automatizados com `unittest` e GitHub Actions.
-3. Avisa no telegram quando o prazo está chegando
+3. Avisa no telegram quando o prazo está chegando.
+4. Buscar a matéria e o nome da atividade.
 
 ## Estado atual
 
